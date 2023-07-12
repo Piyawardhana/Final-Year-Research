@@ -12,6 +12,7 @@
   <li>OpenCV</li>
   <li>Python</li>
   <li>React Native</li>
+  <li>Node.js</li>
 </ul>
 
 <h3>Tools used</h3>
